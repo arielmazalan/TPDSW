@@ -32,8 +32,8 @@ Debido a un error inicial en el flujo de trabajo, las primeras funcionalidades s
 
 Una aplicacion web de "Fantasy Futbol" en la cual cada usuario puede construir su propio equipo de 11 jugadores titulares y 4 suplentes adquiridos desde un mercado basado en la Liga Argentina de Futbol y afiliarse a un torneo con otros usuarios. Estos jugadores iran sumando puntos semanalmente en funcion de su rendimiento en la vida real, que luego seran usados para determinar que usuario conformo el mejor equipo. Cada usuario comenzara con 11 jugadores al azar (que no excedan un monto especifico) y un pequeño presupuesto. Cada jugador tiene un precio establecido el cual variaria dependiendo de sus ultimas actuaciones en partidos. Los usuarios pueden adquirir estos jugadores en un mercado que se actualizara constantemente con jugadores aleatorios, tambien pueden comprarselos a otros usuarios pagando una clausula de rescision o haciendoles una oferta. Sumado a esto cada usuario puede vender sus jugadores en el mercado a un porcentaje del precio que el mismo tenga en el momento. Al final de la semana se conformara un podio entre los usuarios de una misma liga dependiendo de la cantidad de puntos que tengan, y en base a ese podio se repartiran las distintas recompensas dentro de las cuales los usuarios podran elegir premios monetarios o premios por probabilidades (como ruletas y elecciones entre jugadores).
 
-### Der Regularidad
-![imagen del modelo](./assets/DER_Regularidad.drawio.png)
+### Der Aprobación directa
+![imagen del modelo](./assets/DER_Aprobacion_Directa.drawio.png)
 
 
 ## Alcance Funcional 
